@@ -1,0 +1,68 @@
+
+walk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk_05
+  rotate: false
+  xy: 1, 2
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: 5
+walk_01
+  rotate: false
+  xy: 31, 2
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: 1
+walk_03
+  rotate: false
+  xy: 58, 2
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: 3
+walk_04
+  rotate: false
+  xy: 84, 1
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: 4
+walk_06
+  rotate: false
+  xy: 110, 1
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: 6
+walk_7
+  rotate: false
+  xy: 136, 1
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: 7
+walk_02
+  rotate: false
+  xy: 161, 2
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: 2
+walk_08
+  rotate: false
+  xy: 186, 1
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: 8
+walk_00
+  rotate: false
+  xy: 210, 1
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: 0
